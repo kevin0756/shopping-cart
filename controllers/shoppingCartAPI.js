@@ -1,3 +1,5 @@
+'use strict';
+
 var Model = require('../models/product');
 const {ShoppingCart} = Model;
 const mongoose = require('mongoose')
